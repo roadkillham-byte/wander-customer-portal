@@ -1,5 +1,4 @@
-# Wander Customer Portal
+# Moved
 
-First slice: `rules.js` (pure rules, `node --test rules.test.js`) and the Held screen (`index.html`, sample data in `fixtures/held-data.js`).
-
-The font in `assets/fonts/` is not committed until its web licence is confirmed (spec section 9). Build plan: `~/Projects/wander-dashboard-design/docs/superpowers/plans/2026-11-13-dashboard-build.md`.
+The Wander Customer Portal now lives inside the booking site's repo, `wander-booking`, under `portal/`, with its history. This repo only
+keeps one redirect page so portal links already emailed to clients keep working. Do not add code here.
